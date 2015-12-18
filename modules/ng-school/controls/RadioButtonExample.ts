@@ -16,8 +16,7 @@ export class RadioButtonExample {
 
     constructor() {
         this.model = {
-            sex: "female",
-            checked: true
+            sex: "female"
         };
     }
 
